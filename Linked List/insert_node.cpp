@@ -1,7 +1,7 @@
 // Program to insert a node
 
 #include<iostream>
-#include "Node.cpp"
+#include "Node.cpp" // This line calls the Node.cpp where a class is created to build linked list data type
 using namespace std;
 
 // Input Linked List
