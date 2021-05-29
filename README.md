@@ -1,5 +1,5 @@
 # Data-Structure-Programs
-<img src = "https://louisem.com/wp-content/uploads/2017/06/Inspirational-Quote-More-Than-Who-You-Were.png" width = "500">
+<img src = "https://louisem.com/wp-content/uploads/2017/06/Inspirational-Quote-More-Than-Who-You-Were.png" width = "400">
 
 ## All important programs of data structure and algorithms in C++.
 1. Arrays
