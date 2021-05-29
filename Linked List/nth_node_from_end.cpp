@@ -2,7 +2,7 @@
 
 #include<iostream>
 using namespace std;
-#include "node.cpp"
+#include "node.cpp" // This line calls the Node.cpp where a class is created to build linked list data type
 
 // Input Linked List
 // This function takes input until -1
