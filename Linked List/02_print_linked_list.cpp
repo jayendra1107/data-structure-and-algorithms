@@ -3,8 +3,7 @@
 #include <iostream>
 using namespace std;
 
-// Input Linked List
-// This function takes input until -1
+// Creating Node data type
 class Node {
 public:
     int data;
