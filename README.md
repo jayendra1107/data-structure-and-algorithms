@@ -16,6 +16,17 @@ Data structures & Algorithms are an essential part of programming. It comes unde
 ## All important programs of data structure and algorithms in C++.
 
 <details>
+  <summary>Sorting</summary>
+  <ol>
+    <li> <a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Sorting/01_bubble_sort.cpp">Bubble Sort</a> </li>
+    <li> <a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Sorting/02_selection_sort.cpp">Selection Sort</a></li>
+    <li> <a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Sorting/03_insertion_sort.cpp">Insertion Sort</a></li>
+    <li> <a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Sorting/04_merge_sort.cpp">Merge Sort</a></li>
+    <li> <a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Sorting/05_quick_sort_lomuto.cpp">Quick Sort using lomuto partition</a></li>
+  </ol>
+</details>
+
+<details>
   <summary>Linked List</summary>
   <ol>
     <li> <a href="https://github.com/jayendra1107/Data-Structure-Programs/blob/main/Linked%20List/01_Node.cpp">Creating linked list node.</a></li>
