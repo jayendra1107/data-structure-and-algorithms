@@ -9,7 +9,7 @@ Data structures & Algorithms are an essential part of programming. It comes unde
 
 🌟 Star it | 🍴Fork it | 🤝 Contribute to it!
 
-<b> Note: I tried to provide the brute force and optimize soluton for each question. If you feel to optimized any solution futher or give some suggestion, Pull requests are always welcome.</b>
+<b> Note:- If you feel to optimized any solution futher or give some suggestion, Pull requests are always welcome.</b>
 
 <b> Sorry, all topics aren't covered yet, I am working on it. I will try to update everything as soon as possible. </b>
 
