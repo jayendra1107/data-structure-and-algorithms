@@ -55,3 +55,15 @@ Data structures & Algorithms are an essential part of programming. It comes unde
     <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Circular%20Linked%20List/06_insert_node_at_ith_position.cpp">Insert a node at ith position in a circular linked list</a></li>
   </ol>
 </details>
+
+<details>
+  <summary>Stack</summary>
+  <ol>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Stack/01_StackUsingArray.cpp">Stack using arrays.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Stack/02_StackUsingDynamicArray.cpp">Stack using dynamic arrays.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Stack/03_StackUsingTemplate.cpp">Stack using templates in arrays.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Stack/04_StackUsingLinkedList.cpp">Stack using linked list.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Stack/05_InbuiltStack.cpp">Inbuilt stack library.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Stack/06_BalancedParenthesis.cpp">Balanced parenthesis problem using stack.</a></li>
+  </ol>
+</details>
