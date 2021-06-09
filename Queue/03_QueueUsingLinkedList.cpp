@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+// Creating a node data type to handle T type of data
 template <typename T>
 class Node {
 public:
@@ -12,39 +13,45 @@ public:
     }
 };
 
+// Creating queue class
 template <typename T>
 class Queue {
-    Node<T> *head;
-    Node<T> *curr;
+    Node<T> *head;  // for holding head element
+    Node<T> *tail;  // for holding tail elmen
     int length;
 public:
     Queue() {
-        head = nullptr;
+        head = nullptr; // by default head will be nullptr
         curr = nullptr;
-        length = 0;
+        length = 0; // default length of the linked list is 0
     }
 
+    // This function returns the size of the queue
     int size() {
         return length;
     }
 
+    // This function checks whether the linked list is empty or not
     bool isEmpty() {
         return (length == 0);
     }
 
+    // This function inserts element in a linked list
     void enqueue(T element) {
-        Node<T> *newNode = new Node<T>(element);
-        if(head == nullptr) {
+        Node<T> *newNode = new Node<T>(element);    // Creating a new node
+        if(head == nullptr) {   // If head is nullptr we have to assign newNode to it and tail as well
             head = newNode;
-            curr = head;
-            length++;
-            return ;
+            tail = head;
         }
-        curr->next = newNode;
-        curr = curr->next;
+        else {  // Else we will add newnode at the end of the linked list
+            tail->next = newNode;
+            tail = tail->next;
+        }
+        
         length++;
     }
 
+    // This function returns front element of the queue
     T front() {
         if(isEmpty()) {
             cout<<"Queue is empty"<<endl;
@@ -53,6 +60,7 @@ public:
         return head->data;
     }
 
+    // This element removes the first element from the queue
     T dequeue() {
         if(isEmpty()) {
             cout<<"Queue is empty"<<endl;
@@ -60,7 +68,7 @@ public:
         }
         T res = head->data;
         Node<T> *temp = head;
-        head = head->next;
+        head = head->next;  // head will point to next node as it will hold the front element in the queue
         delete (temp);
         length--;
         return res;
