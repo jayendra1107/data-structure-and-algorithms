@@ -67,3 +67,13 @@ Data structures & Algorithms are an essential part of programming. It comes unde
     <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Stack/06_BalancedParenthesis.cpp">Balanced parenthesis problem using stack.</a></li>
   </ol>
 </details>
+
+<details>
+  <summary>Queue</summary>
+  <ol>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Queue/01_QueueUsingArray.cpp">Queue using arrays.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Queue/02_QueueUsingDynamicArray.cpp">Queue using dynamic arrays.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Queue/03_QueueUsingLinkedList.cpp">Queue using linked list.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Queue/04_InbuiltQueue.cpp">Inbuilt queue library.</a></li>
+  </ol>
+</details>
