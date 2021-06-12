@@ -79,7 +79,7 @@ Data structures & Algorithms are an essential part of programming. It comes unde
 </details>
 
 <details>
-  <summary>Deqeue</summary>
+  <summary>Deque</summary>
   <ol>
     <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Deque/01_DequeUsingArray.cpp">Deque using arrays.</a></li>
     <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Deque/02_DequeUsingLinkedList.cpp">Deque using linked list.</a></li>
