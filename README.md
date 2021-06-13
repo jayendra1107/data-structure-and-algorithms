@@ -86,3 +86,19 @@ Data structures & Algorithms are an essential part of programming. It comes unde
     <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Deque/03_InbuiltDeque.cpp">Inbuilt deque library.</a></li>
   </ol>
 </details>
+
+<details>
+  <summary>Tree</summary>
+  <ol>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Tree/01_PrintTree.cpp">Print a tree.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Tree/02_TakeTreeInput.cpp">Take tree input.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Tree/03_CountTreeNodes.cpp">Count total number of nodes in a tree.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Tree/04_SumOfTreeNodes.cpp">Calculating sum of all nodes in a tree.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Tree/05_MaxOfTreeNodes.cpp">Finding maximum element in a tree.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Tree/06_HeightOfTree.cpp">Calculating height of a tree.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Tree/07_PrintTreeNodesAtDepthK.cpp">Printing all nodes at K depth from the root node.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Tree/08_CountLeafNodes.cpp">Counting total number of leaf nodes in a tree.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Tree/09_PreOrderTraversal.cpp">Pre-order tree traversal.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Tree/10_PostOrderTraversal.cpp">Post-order tree traversal.</a></li>
+  </ol>
+</details>
