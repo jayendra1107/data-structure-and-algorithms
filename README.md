@@ -5,7 +5,7 @@
 </p>
 
 ## Introduction
-Data structures & Algorithms are an essential part of programming. It comes under the fundamentals of computer science. It gives us the advantage of writing better and efficient code in less time. It is a key topic when it comes to Software Engineering interview questions so as developers, we must have knowledge of Data Structure and Algorithms
+Data structures & Algorithms are an essential part of programming. It comes under the fundamentals of computer science. It gives us the advantage of writing better and efficient code in less time. It is a key topic when it comes to Software Engineering interview questions. As developers, we must have knowledge of Data Structure and Algorithms.
 
 🌟 Star it | 🍴Fork it | 🤝 Contribute to it!
 
