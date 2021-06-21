@@ -113,6 +113,9 @@ Data structures & Algorithms are an essential part of programming. It comes unde
     <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Binary%20Tree/05_FindANodeInBinaryTree.cpp">Finding a node in a binary tree.</a></li>
     <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Binary%20Tree/06_MirrorOfBinaryTree.cpp">Creating mirror of a binary tree.</a></li>
     <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Binary%20Tree/07_BinaryTreeTraversals.cpp">Pre, post and in-order traversal of binary tree.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Binary%20Tree/08_BinaryTreeUsingInorderAndPreorder.cpp">Creating a binary tree using its in-order and pre-order traversals.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Binary%20Tree/09_BinaryTreeUsingInorderAndPostorder.cpp">Creating a binary tree using its in-order and post-order traversals.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Binary%20Tree/10_DiameterOfBinaryTree.cpp">Calculating diameter (maximum distance b/w two nodes) of a binary tree.</a></li>
   </ol>
 </details>
 
