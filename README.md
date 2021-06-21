@@ -102,3 +102,17 @@ Data structures & Algorithms are an essential part of programming. It comes unde
     <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Tree/10_PostOrderTraversal.cpp">Post-order tree traversal.</a></li>
   </ol>
 </details>
+
+<details>
+  <summary>Binary Tree</summary>
+  <ol>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Binary%20Tree/01_PrintBinaryTree.cpp">Print binary tree.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Binary%20Tree/02_TakeBinaryTreeInput.cpp">Take input for binary tree.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Binary%20Tree/03_NoOfNodesInBinaryTree.cpp">Count total number of nodes in a binary tree.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Binary%20Tree/04_HeightOfBinaryTree.cpp">Calculating height of a binary tree.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Binary%20Tree/05_FindANodeInBinaryTree.cpp">Finding a node in a binary tree.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Binary%20Tree/06_MirrorOfBinaryTree.cpp">Creating mirror of a binary tree.</a></li>
+    <li><a href="https://github.com/jayendra1107/data-structure-and-algorithms/blob/main/Binary%20Tree/07_BinaryTreeTraversals.cpp">Pre, post and in-order traversal of binary tree.</a></li>
+  </ol>
+</details>
+
