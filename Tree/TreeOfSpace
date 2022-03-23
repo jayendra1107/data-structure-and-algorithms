@@ -109,7 +109,7 @@ bool checkDescendants3(Tree* root) {
     } else {
         bool flag = false;
         for(int i=0; i<root->children.size(); i++) {
-            flag = checkDescendants3(root->children[i]) || flag;
+            flag = flag || checkDescendants3(root->children[i]);
         }
         return flag;
     }
@@ -133,7 +133,9 @@ bool upgrade(Tree* root, string node, int id) {
         return false;
     }
     if(root->data == node) {
-        if(checkDescendants2(root, id) && checkDescendants3(root)) {
+        if(root->isLocked) {
+            return false;
+        } else if(checkDescendants3(root) && checkDescendants2(root, id)) {
             updateDescendants(root);
             root->isLocked = true;
             root->uid = id;
@@ -145,7 +147,7 @@ bool upgrade(Tree* root, string node, int id) {
     if(root->children.size() == 0) {
         return false;
     }
-    bool flag = true;
+    bool flag = false;
     for(int i=0; i<root->children.size(); i++) {
         flag = upgrade(root->children[i], node, id) || flag;
     }
